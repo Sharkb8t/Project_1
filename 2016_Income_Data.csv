@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+﻿Category,Sub-Category,Median Income Estimate (dollars),Margin of error (±),Number (thousands)
+Type of Household,Married-couple,"87,057",695,"60,804"
+Type of Household,"Female householder, no spouse present","41,027",871,"15,572"
+Type of Household,"Male householder, no spouse present","58,051","2,172","6,452"
+Type of Household,Female householder,"30,572",603,"22,858"
+Type of Household,Male householder,"41,749",701,"20,539"
+Race and Ethnicity,White,"61,858",549,"99,400"
+Race and Ethnicity,Black,"39,490","1,187","16,733"
+Race and Ethnicity,Asian,"81,431","1,917","6,392"
+Race and Ethnicity,Hispanic (any race),"47,675","1,113","16,915"
+Age of Householder,15 to 24 years,"41,655","1,145","6,238"
+Age of Householder,25 to 34 years,"60,932",802,"20,109"
+Age of Householder,35 to 44 years,"74,481","1,834","21,500"
+Age of Householder,45 to 54 years,"77,213","1,156","22,808"
+Age of Householder,55 to 64 years,"65,239","1,309","23,770"
+=======
 Category,Sub-Category,Median Income Estimate (dollars),Margin of error (±),Number (thousands)
 Type of Household,Married-couple,"87,057",695,"60,804"
 Type of Household,"Female householder, no spouse present","41,027",871,"15,572"
@@ -13,4 +30,5 @@ Age of Householder,25 to 34 years,"60,932",802,"20,109"
 Age of Householder,35 to 44 years,"74,481","1,834","21,500"
 Age of Householder,45 to 54 years,"77,213","1,156","22,808"
 Age of Householder,55 to 64 years,"65,239","1,309","23,770"
+>>>>>>> b6fdd2d14420b7e4da84b8440ab78e9e947b5d0c
 Age of Householder,65 years and older,"39,823",909,"31,799"
