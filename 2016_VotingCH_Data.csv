@@ -1,16 +1,16 @@
-﻿Category,Sub-Category,Voting-Eligible Population (thousands),Reported Voted (thousands)
-Type of Household,Married-couple,"99,595","79,382"
-Type of Household,"Female householder, no spouse present","1,230",820
-Type of Household,"Male householder, no spouse present","1,078",701
-Type of Household,Female householder,"24,561","16,043"
-Type of Household,Male householder,"26,603","14,855"
-Race and Ethnicity,White,"152,285","111,891"
-Race and Ethnicity,Black,"23,716","17,119"
-Race and Ethnicity,Asian,"8,252","5,043"
-Race and Ethnicity,Hispanic (any race),"21,661","12,682"
-Age of Householder,18 to 24 years,"21,555","11,560"
-Age of Householder,25 to 34 years,"31,868","20,332"
-Age of Householder,35 to 44 years,"29,228","20,662"
-Age of Householder,45 to 54 years,"32,683","25,012"
-Age of Householder,55 to 64 years,"33,774","26,657"
-Age of Householder,65 years and older,"41,110","33,314"
+﻿Category,Sub-Category,Total Citizen Population (thousands),Voting-Eligible Population (thousands),Reported Voted (thousands)
+Type of Household,Married-couple,"114,350","99,595","79,382"
+Type of Household,"Female householder, no spouse present","1,503","1,230",820
+Type of Household,"Male householder, no spouse present","1,359","1,078",701
+Type of Household,Female householder,"30,089","24,561","16,043"
+Type of Household,Male householder,"33,101","26,603","14,855"
+Race and Ethnicity,White,"177,865","152,285","111,891"
+Race and Ethnicity,Black,"28,808","23,716","17,119"
+Race and Ethnicity,Asian,"10,283","8,252","5,043"
+Race and Ethnicity,Hispanic (any race),"26,662","21,661","12,682"
+Age of Householder,18 to 24 years,"26,913","21,555","11,560"
+Age of Householder,25 to 34 years,"38,283","31,868","20,332"
+Age of Householder,35 to 44 years,"34,327","29,228","20,662"
+Age of Householder,45 to 54 years,"38,301","32,683","25,012"
+Age of Householder,55 to 64 years,"39,242","33,774","26,657"
+Age of Householder,65 years and older,"46,993","41,110","33,314"
