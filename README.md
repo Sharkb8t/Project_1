@@ -22,4 +22,6 @@ Function:
     https://www.census.gov/library/publications/2017/demo/p60-259.html
     https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-585.html
     https://www.kaggle.com/datasets/imoore/2020-us-general-election-turnout-rates
-    The graphics this program generates are formatted as double bar graphs, pie charts, and scatter plots. These formats were chosen to allow to boths years data to be compared on the same figure.
+    After importing the CSVs we built dataframes to reference in our graphics. We built seperate dataframes for each year 2016 & 2020, in addition we seperated the voter and income data into smaller dataframes based on sub categorical breakdown.
+    Before we could generate our graphics we needed to merge our datasets. We did so by merging left and reformating the columns to reflect which date they represented.
+    Once we had all of our dataframes formated and merged properly we could have our script generate our data graphics. The graphics this program generates are formatted as double bar graphs, pie charts, and scatter plots. These formats were chosen to allow to boths years data to be compared on the same figure.
